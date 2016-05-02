@@ -1,6 +1,6 @@
 #CodeBook
 
-This CodeBook explans the variable of the uploaded tidy data of this project.
+This CodeBook explans the variables of the uploaded tidy data of this project.
 
 ##Identifiers
 
